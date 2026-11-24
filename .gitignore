@@ -1,0 +1,7 @@
+# Downloaded third-party source documents stay local; briefs cite them by URL.
+verticals/*/data/**/*.pdf
+verticals/*/data/**/*.docx
+
+__pycache__/
+*.pyc
+.claude/settings.local.json
